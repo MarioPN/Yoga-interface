@@ -97,12 +97,13 @@ strong {
     margin-bottom: 18.5px;
 }
 
+.img-link {
+    text-decoration: none;
+    margin: 0 18px;
+}
+
 .container {
     text-align: center;
     margin-bottom: 18.5px;
 }
 
-.img-link {
-    text-decoration: none;
-    margin: 0 18px;
-}
