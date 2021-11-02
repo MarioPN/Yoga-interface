@@ -2,7 +2,7 @@
 
 
 
-<img src="./assets/symbol-yoga.png" alt="logo yoga">
+<img src="./assets/yoga-interface.png" alt="logo yoga">
 
 > Resultado do projeto de Yoga
 
